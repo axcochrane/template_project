@@ -1,14 +1,14 @@
 <nav class="bg-colour-1 row bottom-border">
   <div class="col-sm-5 col-sm-offset-1">
     <div class="large-padding">
-      <H1 class="no-margin">Template</H1>
+      <H1 class="no-margin">TEMPLATE.</H1>
     </div>
   </div>  
   <div class="col-sm-5 align-right">
     <div class="large-padding">
-      Menu Items
-      Log In Button
-      Sign Up Button
+      <a>Menu Items</a>
+      <%= link_to "Log in", new_user_session_path%>
+      <%= link_to "Sign Up", new_user_registration_path%>
     </div>
   </div>  
 </nav>
