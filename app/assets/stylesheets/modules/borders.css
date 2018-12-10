@@ -3,3 +3,14 @@
   border-style: solid;
   border-color: #DEDFE4;
 }
+
+.hr-small-left{
+  width:15%;
+  max-width: 100%;
+  background-color: #EEE;
+  height: 1px;
+  border-width: 0;
+  margin: 5px 0 10px 0;
+  padding: 0;
+  text-align: left;
+}
