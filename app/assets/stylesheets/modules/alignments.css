@@ -1,3 +1,7 @@
+.no-padding{
+  padding: 0px;
+}
+
 .extra-small-padding{
   padding: 5px
 }
@@ -49,3 +53,4 @@
 .no-margin{
   margin: 0px;
 }
+

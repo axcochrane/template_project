@@ -12,6 +12,9 @@
  *
 
  *= frameworks/bootstrap
+ *= modules/borders
+ *= modules/colours
+ *= modules/typography
  *= require_tree .
  *= require_self
 
